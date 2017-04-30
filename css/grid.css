@@ -12,6 +12,7 @@ body {
   margin-right: auto;
   padding-top: 50px;
   padding-bottom: 55px;
+  text-align: center;
   z-index: 0;
 }
 
@@ -49,7 +50,6 @@ body {
     width: 400px;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
   }
 
   .block-1-3 {
